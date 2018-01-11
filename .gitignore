@@ -259,3 +259,7 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/iocp_tcp_server/iocp_tcp_server.vcxproj.filters
+/test_iocp_tcp_server/test_iocp_tcp_server.vcxproj.filters
+/inc/pfLog/pfLog.hh
+/inc/pfLog/logDef.hh
